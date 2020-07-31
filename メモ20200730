@@ -1,0 +1,54 @@
+onclick属性
+　onclickはクリックされたときの動的なイベント処理方法
+
+alert
+　ポップアップ画面を出力
+
+Chromの開発支援ツール
+　表示タブ -> 管理/開発 -> javascriptコンソール
+
+document
+　画面全体を表す
+
+getElementById
+　IDを指定する
+
+innerHTML
+　要素を書き換える
+
+javascriptのコメント
+　// １行
+　/* */複数行
+
+onclick
+　クリックされたときの動的なイベント処理方法
+
+function(){}
+　無名関数
+
+style
+　要素のスタイルを動的に変更できる
+
+color
+　色を変更する
+
+display
+　要素を表示/非表示する
+
+var
+　変数宣言
+
+value
+　オブジェクトの値を取得する
+
+new Array
+　配列の宣言
+
+push
+　配列の末尾に要素を追加する
+
+splice
+　既存の要素を取り除いたり、置き換えたり、新しい要素を追加したりすることで、配列の内容を変更します。
+
+別ファイルからjsを呼び出す方法
+　<script type="text/javascript" src="script.js">
